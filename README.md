@@ -8,7 +8,7 @@
 
 ### Setting up the project
 
-- Clone this repository: `https://github.com/hiyamadan/Lavendero-laundry-management.git`
+- Clone this repository: `https://github.com/hiyamadan/assignment_rise11.git`
 - Create .env file in the root directory of the project
 - Install node.js and npm on your local machine
 - Install the dependencies: `npm install`
